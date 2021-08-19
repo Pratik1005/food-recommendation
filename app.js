@@ -3,16 +3,55 @@ import "./styles.css";
 
 var foodData = {
   breakfast: [
-    { name: "Poha", rating: "5/5" },
-    { name: "Upma", rating: "4/5" }
+    {
+      name:
+        "Poha: Poha, also known as pauwa, chira, or aval, among many other names, is flattened rice originating from the Indian subcontinent. ",
+      rating: "4/5"
+    },
+    {
+      name:
+        "Upma: Upma, uppumavu or uppittu is a dish originating from the Indian subcontinent, cooked as a thick porridge from dry-roasted semolina or coarse rice flour.",
+      rating: "3/5"
+    },
+    {
+      name:
+        "Dosa: A dosa (also dosai or dosha or dose) is a thin pancake or crepe, originating from South India, made from a fermented batter predominantly consisting of lentils and rice.",
+      rating: "5/5"
+    }
   ],
   lunch: [
-    { name: "Aloo Paratha", rating: "5/5" },
-    { name: "Veg Thali", rating: "4/5" }
+    {
+      name:
+        "Kichdi: kichdi is a dish in South Asian cuisine made of rice and lentils (dal).",
+      rating: "4/5"
+    },
+    {
+      name:
+        "Paneer Tikka: Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor.",
+      rating: "5/5"
+    },
+    {
+      name:
+        "Fried rice: Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients",
+      rating: "3/5"
+    }
   ],
   dessert: [
-    { name: "Gulam Jamun", rating: "5/5" },
-    { name: "Rasgulla", rating: "4/5" }
+    {
+      name:
+        "Cheese Cake: Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest, layer consists of a mixture of a soft, fresh cheese, eggs, and sugar.",
+      rating: "4/5"
+    },
+    {
+      name:
+        "Rasmalai: Ras malai or rossomalai or Rasamalei is a dessert originating from the eastern regions of the Indian subcontinent. ",
+      rating: "3/5"
+    },
+    {
+      name:
+        "Cham cham: Chomchom, cham cham, or chum chum is a traditional Bangladeshi sweet, popular throughout the Indian subcontinent.",
+      rating: "5/5"
+    }
   ]
 };
 
